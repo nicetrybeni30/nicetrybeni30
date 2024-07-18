@@ -1,6 +1,7 @@
 ![Preview](./images/bg.jpg)
 
-<img align="right" width="415" height="131" src="./images/nagi-eyes.jpg">
+<img align="right" width="415" height="120" style="object-fit: cover;" src="./images/nagi-eyes.jpg">
+
 
 ### Hi!👋 I'm Beni
 
