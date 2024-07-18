@@ -1,8 +1,6 @@
 ![Preview](./images/bg.jpg)
 
-<div align="right" style="width: 415px; height: 131px; overflow: hidden;">
-    <img style="width: 100%; height: 100%; object-fit: cover;" src="./images/nagi-eyes.jpg">
-</div>
+<img align="right" src="./images/nagi-eyes.JPG">
 
 ### Hi!👋 I'm Beni
 
