@@ -1,4 +1,4 @@
-![Preview](./images/bg.JPG)
+![Preview](/images/bg.JPG)
 
 <img align="right" width="425" src="./images/nagi-eyes.JPG">
 
