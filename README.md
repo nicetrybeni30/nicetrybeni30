@@ -12,7 +12,7 @@ I'm Beni. I enjoy gaming, watching anime, and exploring new coding projects. My 
 <br><br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/nicetrybeni30"><img align="right" width="100" height="93" src="./images/nagi-sleepy.jpg"></a>
+<a href="https://github.com/nicetrybeni30"><img align="right" width="100" height="95" src="./images/nagi-sleepy.jpg"></a>
 Previously worked at RAYA specializing in ERPNext. Graduated from <a href="https://qcu.edu.ph/">Quezon City University (QCU)</a> with a Bachelor of Science in Information Technology (BSIT). I believe in continuous learning and strive to improve every day, eager to make a meaningful impact in the future.
 
 <!-- ## **Tech Stack**
