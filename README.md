@@ -1,18 +1,18 @@
-![Preview](/images/bg.JPG)
+![Preview](./images/bg.jpg)
 
-<img align="right" width="425" src="./images/nagi-eyes.JPG">
+<img align="right" width="425" src="./images/nagi-eyes.jpg">
 
 ### Hi!👋 I'm Beni
 
 **Web Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/nicetrybeni30"><img align="left" width="100" src="nagi-cinnamon.JPG"></a>
+<a href="https://github.com/nicetrybeni30"><img align="left" width="100" src="./images/nagi-cinnamon.jpg"></a>
 I'm Beni. I enjoy gaming, watching anime, and exploring new coding projects. My interests are diverse, and I'm always eager to learn something new.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/nicetrybeni30"><img align="right" width="100" src="nagi-sleepy.JPG"></a>
+<a href="https://github.com/nicetrybeni30"><img align="right" width="100" src="./images/nagi-sleepy.jpg"></a>
 Previously worked at RAYA specializing in ERPNext. Graduated from <a href="https://qcu.edu.ph/">Quezon City University (QCU)</a> with a Bachelor of Science in Information Technology (BSIT). I believe in continuous learning and strive to improve every day, eager to make a meaningful impact in the future.
 
 ## **Tech Stack**
@@ -25,6 +25,6 @@ Previously worked at RAYA specializing in ERPNext. Graduated from <a href="https
 </p>
 
 ## **📫 Contact**
-<a href="https://github.com/nicetrybeni30"><img align="right" width="100" src="./images/nagi-study.JPG" /></a>
+<a href="https://github.com/nicetrybeni30"><img align="right" width="100" src="./images/nagi-study.jpg" /></a>
 
 **You can also email me here:** jbeni.tech@gmail.com
