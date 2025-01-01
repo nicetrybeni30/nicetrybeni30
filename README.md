@@ -27,4 +27,4 @@ Previously worked at <a href="https://rayasolutionsph.com/">RAYA</a> specializin
 ## **📫 Contact**
 <a href="https://github.com/nicetrybeni30"><img align="right" width="100" src="./images/nagi-study.jpg" /></a>
 
-**You can also email me here:** jbeni.tech@gmail.com
+**You can also email me here:** joseph.benipayo.dev@gmail.com
